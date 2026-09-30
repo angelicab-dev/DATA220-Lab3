@@ -17,6 +17,7 @@ the tracked sample path.
 - outputs/ is for generated results but does not create files from that directory
 
 ## Requirements:
+R version used: R version 4.0.0
 Tested R version does not require additional R packages.
 
 ## How to run:
