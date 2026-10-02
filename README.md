@@ -25,12 +25,12 @@ Tested R version does not require additional R packages.
 2. Run the command: Rscript scripts/summarize_spaces.R data/sample/campus_spaces.csv
 
 ## Expected Result: check that these statistics are the output after running the command
-Rows: 12
-Total seats: 278
-Occupied seats: 214
-Available seats: 64
-Occupancy rate: 77.0%
-Busiest observed space: S103
+Rows: 12  
+Total seats: 278  
+Occupied seats: 214  
+Available seats: 64  
+Occupancy rate: 77.0%  
+Busiest observed space: S103  
 
 ## Outputs:
 After the command is ran and successfully outputs the summary, it prints in the terminal
